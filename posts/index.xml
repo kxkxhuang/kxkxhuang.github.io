@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on hkx 的琐碎</title>
+    <link>http://hkx.pub/posts/</link>
+    <description>Recent content in Posts on hkx 的琐碎</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Dec 2019 09:29:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://hkx.pub/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于美国实体清单的思考</title>
+      <link>http://hkx.pub/posts/xsyzc/</link>
+      <pubDate>Tue, 24 Dec 2019 09:29:45 +0800</pubDate>
+      
+      <guid>http://hkx.pub/posts/xsyzc/</guid>
+      <description>美国当地时间2019年10月7日，美国商务部再次宣布，将28家中国实体加入“实体管制清单”，这其中包括海康威视、大华、科大讯飞、旷视科技、商</description>
+    </item>
+    
+    <item>
+      <title>神奇的网站</title>
+      <link>http://hkx.pub/posts/surprising-site/</link>
+      <pubDate>Mon, 09 Dec 2019 21:14:11 +0800</pubDate>
+      
+      <guid>http://hkx.pub/posts/surprising-site/</guid>
+      <description>不知道写点什么，以后再说，或者发表一下关于这个站点的看法？</description>
+    </item>
+    
+  </channel>
+</rss>
